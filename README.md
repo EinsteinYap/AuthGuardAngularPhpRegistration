@@ -1,5 +1,18 @@
 # AngularCRUD
 
+Download the project folder and NPM install 
+
+copy and paste the RESTFUL API "angularCRUD" to your C drive xammp folder.  (or other drive your xammp located. )
+
+copy and paste the angularcrud(RestAPISQL).sql to create a database with table in your MYSQL
+
+
+turn on Xammp run MYSQL and APACHE at localhost. 
+
+if project cannot try run and use nvm use v12.20.0 (NPM version controll)
+
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.0.0.
 
 ## Development server
